@@ -1,4 +1,4 @@
-require_relative './brunch.rb'
+require_relative './brunchmenu.rb'
 require_relative './city.rb'
 
 module BetisBrunchBonanza
