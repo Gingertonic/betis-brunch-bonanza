@@ -8,3 +8,6 @@ end
 ## GIT
 # stage files
 # commit changes
+# add branches
+# rollback to previous commits 
+# stash
